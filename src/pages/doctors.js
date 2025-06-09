@@ -1,0 +1,10 @@
+export const doctors = [
+    { id: 1, name: 'Dr. John Doe', specialty: 'Cardiology', image: 'https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?w=600&auto=format&fit=crop&q=60' },
+    { id: 2, name: 'Dr. Jyotsna Pandurang Daule', specialty: 'Neurology', image: 'https://plus.unsplash.com/premium_photo-1661766718556-13c2efac1388?w=600&auto=format&fit=crop&q=60' },
+    { id: 3, name: 'Dr. Emily Johnson', specialty: 'Pediatrics', image: 'https://images.unsplash.com/photo-1551884170-09fb70a3a2ed?w=600&auto=format&fit=crop&q=60' },
+    { id: 4, name: 'Dr. Rajesh Sharma', specialty: 'Orthopedics', image: 'https://media.istockphoto.com/id/1418999473/photo/doctors-comforting-disabled-elderly-patient.webp?a=1&b=1&s=612x612&w=0&k=20&c=YwTJIt9-LX4Acp_3ng6BD3_pke2MHOqNMqMgR2adg_g=' },
+    { id: 5, name: 'Dr. Anjali Verma', specialty: 'Gynecology', image: 'https://media.istockphoto.com/id/1302926719/photo/mid-adult-female-doctor-talking-on-phone-at-clinic-stock-photo.webp?a=1&b=1&s=612x612&w=0&k=20&c=jZuYGFVb80-5JwF3talU59hcvFJ4hOh7EBBeAaWIKTQ=' },
+    { id: 6, name: 'Dr. Kiran Patel', specialty: 'Fertility Specialist', image: 'https://plus.unsplash.com/premium_photo-1661580574627-9211124e5c3f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGRvY3RvcnxlbnwwfHwwfHx8MA%3D%3D' },
+    { id: 7, name: 'Dr. Meera Deshmukh', specialty: 'Maternity Care', image: 'https://images.unsplash.com/photo-1527613426441-4da17471b66d?w=600&auto=format&fit=crop&q=60' },
+    { id: 8, name: 'Dr. Suraj Naik', specialty: 'Test Tube Baby Specialist', image: 'https://media.istockphoto.com/id/1410398449/photo/male-doctor-in-a-medical-clinic-writing-prescription-for-a-young-female-patient.webp?a=1&b=1&s=612x612&w=0&k=20&c=qc0xflQ7rHLudNluswcw3UqRNMaYFvnP8fjW3CqZ7XU=' },
+];

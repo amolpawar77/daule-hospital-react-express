@@ -1,0 +1,64 @@
+Daule Hospital Savedi Ahmednagar Maharashtra Nagar
+Manmad High
+Way Savedi
+
+Hospital Website Panel
+• Home
+○ Menu
+○ Slider
+○ Book Appointment
+○ Departments Overview
+○ Doctors List
+○ Gallery
+○ Footer
+
+• Book Appointment
+○ Search Filter
+○ Select Doctor/Department
+○ Appointment Form
+
+• Departments
+○ Search Filter
+○ Department Categories
+○ Department Details Page
+
+• Doctors
+○ Doctor List
+○ Doctor Profile & Booking
+
+• Medical Services
+○ Service Categories
+○ Service Details
+○ Book Service
+
+• Facilities
+○ Facilities List
+○ View Facilities
+
+• About Us
+○ About & Hospital Overview
+○ Vision
+○ Mission
+○ Our Team
+○ Gallery
+
+• Gallery
+○ Photos
+
+• Contact
+○ Email, Phone, Address
+○ Contact Form
+
+• Hospital Directory
+○ Directory Details
+
+• Terms and Conditions
+○ Title and Description
+
+• Privacy Policy
+○ Title and Description
+
+• FAQ
+○ Questions and Answers
+
+• Footer
